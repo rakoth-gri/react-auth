@@ -55,11 +55,10 @@ import { Box, TextField, Stack, Chip } from "@mui/material";
 
 ### API компонентов MUI:
 
-В разделе **API** описаны основные свойства(props) каждого MUI-компонента с <u>указанием типизации</u>
-Например, для Input пропсы описаны по ссылке:
+В разделе **API** описаны основные свойства(props) каждого MUI-компонента с <u>указанием типизации</u> </>
+Например, для Input пропсы описаны по ссылке: [Input](https://mui.com/material-ui/api/input/) <br/>
 
-- [Input](https://mui.com/material-ui/api/input/) <br/>
-  Конечно, помимо MUI-свойств, для Input доступны все основные HTMLAttributes:
+Конечно, помимо MUI-свойств, для Input доступны все основные HTMLAttributes:
 - className;
 - title;
 - style;
