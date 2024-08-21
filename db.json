@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "login": "ram@ram.com",
+      "pass": "123"
+    },
+    {
+      "id": "2",
+      "login": "test@test.ru",
+      "pass": "456"
+    },
+    {
+      "id": "1724141316040",
+      "login": "sveta@sveta",
+      "pass": "12"
+    },
+    {
+      "id": 1724231492913,
+      "login": "new@new.org",
+      "pass": "667"
+    }
+  ]
+}
