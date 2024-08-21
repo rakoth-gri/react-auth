@@ -58,7 +58,7 @@ import { Box, TextField, Stack, Chip } from "@mui/material";
 В разделе **API** описаны основные свойства(props) каждого MUI-компонента с <u>указанием типизации</u>
 Например, для Input пропсы описаны по ссылке:
 
-- [Input](https://mui.com/material-ui/api/input/) Input API
+- [Input](https://mui.com/material-ui/api/input/) <br/>
   Конечно, помимо MUI-свойств, для Input доступны все основные HTMLAttributes:
 - className;
 - title;
@@ -209,7 +209,7 @@ export const Title = ({ title }) => {
 
 ### Предустановленная цветовая MUI-палитра доступна благодаря объекту colors:
 
-- Перейти в палитру: [colors](https://mui.com/material-ui/customization/color/) COLORS
+- Перейти в палитру: [colors](https://mui.com/material-ui/customization/color/) 
 
 ```javascript
 // ИМПОРТИРУЕМ объект ЦВЕТОВОЙ ПАЛИТРЫ:
@@ -241,8 +241,8 @@ export const Spinner = ({ loading }) => {
 
 ### Работаем с Иконками. MUI предлагает список из _2 100_ официальных иконок!
 
-- Посмотреть иконки: [icons](https://mui.com/material-ui/material-icons/) icons
-- Посмотреть пропсы иконок: [icons-props](https://mui.com/material-ui/api/icon/) icons-props
+- Посмотреть иконки: [icons](https://mui.com/material-ui/material-icons/) 
+- Посмотреть пропсы иконок: [icons-props](https://mui.com/material-ui/api/icon/) 
 
 ```javascript
 // ПРИМЕР 1
