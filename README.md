@@ -125,7 +125,7 @@ export const Logo = () => {
 };
 ```
 
-3. Добавляем prop className и кастомизируем классически, с помощью СSS /SASS / TAILWIND:
+3. Добавляем prop className и кастомизируем классически, с помощью СSS / SASS / TAILWIND:
 
 ```javascript
 // **Импорты всех компонентов не показаны!**
